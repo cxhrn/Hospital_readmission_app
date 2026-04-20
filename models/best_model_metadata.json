@@ -1,0 +1,17 @@
+{
+  "best_model_name": "XGBoost",
+  "best_threshold": 0.5431765913963318,
+  "pr_auc": 0.2262214508293044,
+  "roc_auc": 0.6760129206454348,
+  "precision": 0.20548227535037097,
+  "recall": 0.44056562085726914,
+  "f1": 0.2802529866479269,
+  "balanced_accuracy": 0.6107968689347407,
+  "best_params": {
+    "n_estimators": 300,
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "scale_pos_weight": 7.780789628756629,
+    "best_iteration": 224
+  }
+}
